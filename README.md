@@ -1,4 +1,8 @@
 # TypeScript Fundamentals
+ 1. Types in TS
+ 2. Unions & Any
+ 3. Type Narrowing & Type Gaurds in TS
+ 4. Advanced Types (Assertion, Unknown, Never)
 
 # How to run this project?
  1. Step 1 - Clone the repo
