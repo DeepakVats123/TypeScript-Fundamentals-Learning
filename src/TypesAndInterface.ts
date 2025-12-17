@@ -90,7 +90,7 @@ const app: AppDetails = {
     version: 2.0
 }
 
-// app.appName = "Web"    // its not allowed here because we can define only one time.
+// app.appName = "Web"  // its not allowed here because we can define only one time.
 
 
 

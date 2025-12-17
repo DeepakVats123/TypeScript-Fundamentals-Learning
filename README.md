@@ -4,7 +4,8 @@
  3. Type Narrowing & Type Gaurds in TS
  4. Advanced Types (Assertion, Unknown, Never)
  5. Type and InterFace in TS (&, ?, readOnly, interSection, TypeLitral) with Example
- 6. Objects in TS
+ 6. Objects in TS - Use of Partial / Required / Pick / Omit
+ 7. functions in TS
 
 # How to run this project?
  1. Step 1 - Clone the repo
