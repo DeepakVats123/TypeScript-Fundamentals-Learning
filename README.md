@@ -7,6 +7,8 @@
  6. Objects in TS - Use of Partial / Required / Pick / Omit
  7. functions in TS
  8. Array, Tuples and Enums in TS.
+ 9. Interface in depth.
+ 10. Generics in TS.
 
 # How to run this project?
  1. Step 1 - Clone the repo
