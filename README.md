@@ -6,6 +6,7 @@
  5. Type and InterFace in TS (&, ?, readOnly, interSection, TypeLitral) with Example
  6. Objects in TS - Use of Partial / Required / Pick / Omit
  7. functions in TS
+ 8. Array, Tuples and Enums in TS.
 
 # How to run this project?
  1. Step 1 - Clone the repo
