@@ -9,6 +9,8 @@
  8. Array, Tuples and Enums in TS.
  9. Interface in depth.
  10. Generics in TS.
+ 11. Type Declaration in TS.
+ 12. Axios in TS (Web requests using axios in TS).
 
 # How to run this project?
  1. Step 1 - Clone the repo
